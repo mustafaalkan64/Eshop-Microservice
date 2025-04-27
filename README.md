@@ -8,7 +8,7 @@ https://udemy-certificate.s3.amazonaws.com/pdf/UC-91b30e4a-25ea-45da-8f99-e2d05f
 
 ## 📄 Documentation
 
-You can download or view the full documentation [here](/Microservices-Remastered.pdf).
+You can download or view the full documentation [here](/docs/Microservices-Remastered.pdf).
 
 There is a couple of microservices which implemented **e-commerce** modules over **Catalog, Basket, Discount** and **Ordering** microservices with **NoSQL (DocumentDb, Redis)** and **Relational databases (PostgreSQL, Sql Server)** with communicating over **RabbitMQ Event Driven Communication** and using **Yarp API Gateway**.
 
