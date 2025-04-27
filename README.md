@@ -1,6 +1,6 @@
 See the overall picture of **implementations on microservices with .net tools** on real-world **e-commerce microservices** project;
 
-That is my certificate of the course i have completed successfuly on udemy:
+Check my certificate of the course i have completed successfuly on udemy:
 
 https://udemy-certificate.s3.amazonaws.com/pdf/UC-91b30e4a-25ea-45da-8f99-e2d05fa37271.pdf
 
